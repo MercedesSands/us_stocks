@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Mercedes Sands
 ============================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
-I am a software developer that has switched careers after doing massage therapy for almost 10 years. I have loved everything about learning how to code. From building blank pages into beautiful fully functional websites and practicing my problem solving skills by debugging. I use HTML, CSS, JavaScript, Bootstrap, and React to build projects. I also have some backend knowledge in Python and Node js.
+I am a software engineer that has switched careers after doing massage therapy for almost 10 years. I have loved everything about learning how to code. From building blank pages into beautiful fully functional websites, working with data and API's and practicing my problem solving skills by debugging. I use HTML, CSS, JavaScript, Bootstrap, and React to build projects. I also have backend knowledge in Python and Node js.
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)

@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Mercedes Sands
 ============================================================================================================================================
 
-Software Engineer
+Software/Machine Learning Engineer
 ------------------
 
-I am a software engineer that has switched careers after doing massage therapy for almost 10 years. I have loved everything about learning how to code. From building blank pages into beautiful fully functional websites, working with data and API's and practicing my problem solving skills by debugging. I use HTML, CSS, JavaScript, Bootstrap, React for frontend work and Node js or Python for backend work to build projects. My favorite programming language is Python. I also love data science and machine learning.
+I am a software/machine learning engineer that has switched careers after doing massage therapy for almost 10 years. I have loved everything about learning how to code. From building blank pages into beautiful fully functional websites, working with data and API's and practicing my problem solving skills by debugging. I use HTML, CSS, JavaScript, Bootstrap, React for frontend work and Node js or Python for backend work to build projects. My favorite programming language is Python. I also love data science and machine learning.
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software/Machine Learning Engineer
 ------------------
 
-I am a software/machine learning engineer that has switched careers after doing massage therapy for almost 10 years. I have loved everything about learning how to code. From building blank pages into beautiful fully functional websites, analyzing data, using and understanding algorithms and  API's and practicing my problem solving skills by debugging. 
+I am a software/machine learning engineer based in San Diego, CA. My stregths are Python, SQL, Backend Development, Machine Learning, and Data Science. I enjoy building backend applications working with API's, databases, building models and analyzing data to help make predictions.  
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)

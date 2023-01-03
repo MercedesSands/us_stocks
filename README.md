@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Mercedes Sands
 ============================================================================================================================================
 
-Software/Machine Learning Engineer
+Software Engineer
 ------------------
 
-I am a software/machine learning engineer based in San Diego, CA. My stregths are Python, SQL, Backend Development, Machine Learning, and Data Science. I enjoy building backend applications working with API's, databases, building models and analyzing data to help make predictions.  
+I am a software engineer and my stregths are Python, SQL, Backend Development, DevOps, Machine Learning, and Data Science.  
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)

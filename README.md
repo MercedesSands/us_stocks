@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Mercedes Sands
 ============================================================================================================================================
 
-Software Engineer
+Software Engineer and Data Scientist 
 ------------------
 
 I am a software engineer/data scientist with strengths in Python, SQL, Backend Development, DevOps, and Data Science. My Github contain projects showing my skills that I have gained over the past year.

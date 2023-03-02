@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------
 
-I am a software engineer and my stregths are Python, SQL, Backend Development, DevOps, and Machine Learning.  
+I am a software engineer/data scientist with strengths in Python, SQL, Backend Development, DevOps, and Data Science. My Github contain projects showing my skills that I have gained over the past year.
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)

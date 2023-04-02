@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Data Scientist 
 ------------------
 
-I am a software engineer/data scientist with strengths in Python, SQL, Backend Development, DevOps, and Data Science. My Github contain projects showing my skills that I have gained over the past year.
+I am a software engineer/data scientist with strengths in Python, SQL, Backend Development, DevOps, Machine Learning and Business Data Analytics. My Github contain projects showing my skills that I have gained over the past year.
 
-* 🌍  I'm based in San Diego, CA
-* 🖥️  See my portfolio at [MercedesSandsTech](http://mercedessandstech.com)
-* ✉️  You can contact me at [mercedessandstech1@gmail.com](mailto:mercedessandstech1@gmail.com)
+* 🌍  I'm based in Baltimore, MD
+* 🖥️  See my portfolio at [ArielMercedesTech](http://arielmercedestech.com)
+* ✉️  You can contact me at [arielmercedestech@gmail.com](mailto:arielmercedestech@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
